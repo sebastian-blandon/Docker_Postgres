@@ -1,0 +1,3 @@
+POSTGRES_USER=admin_name
+POSTGRES_PASSWORD=SAfe_Password!
+POSTGRES_DB=db_name
